@@ -1,2 +1,2 @@
 # Web-dev-projects
-Coursera Course
+Self projects and coursera course codes
