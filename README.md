@@ -1,2 +1,2 @@
-# Frontend-dev-jhop
+# Web-dev-projects
 Coursera Course
